@@ -10,7 +10,7 @@ html, body {
 .image {
     width: 62%;
     height: 45%;
-    border: 5px solid white;
+    border: 5px solid rgb(105, 102, 102);
     border-radius: 10px;
 }
 
